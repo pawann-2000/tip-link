@@ -37,3 +37,7 @@ next-env.d.ts
 
 # environment variables
 .env
+
+# local stuff
+.vscode
+codeql-custom-queries-javascript
